@@ -1,0 +1,2 @@
+regsvr32 "C:\Program Files\Fichiers communs\Microsoft Shared\DAO\DAO360.DLL"
+regsvr32  %Systemroot%\System32\comdlg32.ocx
